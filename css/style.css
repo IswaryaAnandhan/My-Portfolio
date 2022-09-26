@@ -24,7 +24,7 @@
 /* Media Screen Min-Width : 900px */
 @media screen and (min-width: 900px) {
   :root {
-    --big-font-size: 3.5rem;
+    --big-font-size: 3rem;
     --h2-font-size: 2rem;
     --nomral-font-size: 1rem;
   }
@@ -469,13 +469,9 @@ img {
     margin-left: auto;
     margin-right: auto;
   }
-    .home_title {
-  margin-bottom: var(--mb-5);
-}
 }
 
-@media screen and (max-width: 1024px) {
-}
+
 
 #msg{
   color: #61b752;

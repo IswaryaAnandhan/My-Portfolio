@@ -186,7 +186,7 @@ img {
 }
 
 .home_title {
-/*   font-size: var(--big-font-size); */
+  font-size: var(--big-font-size);
   margin-bottom: var(--mb-5);
 }
 
@@ -470,6 +470,12 @@ img {
     margin-right: auto;
   }
 }
+
+@media screen and (max-width: 1200px) {
+  .home_title {
+  font-size: xx-large;
+  margin-bottom: var(--mb-5);
+}}
 
 #msg{
   color: #61b752;

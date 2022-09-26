@@ -473,7 +473,7 @@ img {
 
 @media screen and (max-width: 1200px) {
   .home_title {
-  font-size: x-large;
+  font-size: large;
   margin-bottom: var(--mb-5);
 }}
 

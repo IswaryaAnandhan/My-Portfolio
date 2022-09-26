@@ -430,7 +430,7 @@ img {
     align-self: flex-end;
   }
   .home_social {
-    padding-top: 150px;
+    padding-top: 100px;
     padding-bottom: 2.5rem;
     flex-direction: row;
     /* align-self: flex-end; */

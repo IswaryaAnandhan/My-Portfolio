@@ -469,12 +469,13 @@ img {
     margin-left: auto;
     margin-right: auto;
   }
+    .home_title {
+  margin-bottom: var(--mb-5);
+}
 }
 
 @media screen and (max-width: 1024px) {
-  .home_title {
-  margin-bottom: var(--mb-5);
-}}
+}
 
 #msg{
   color: #61b752;

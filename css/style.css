@@ -444,7 +444,12 @@ img {
   height: 14rem;
   width: 100%;
 }
-
+.cred{
+  align-self: center;
+  color: white;
+  font-size: 22px;
+  margin-bottom: 10px;
+}
 .proHead {
   margin-top: 1rem;
 }
